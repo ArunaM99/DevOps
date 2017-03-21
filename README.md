@@ -5,3 +5,4 @@ Jenkins-Continuous integration management tool
 Puppet,Chef,Ansible - Continuous deployment management tool
 Siebel - Continuous testing tool
 Docker -Containirization tool
+Nagios - Continuous monitoring tool
